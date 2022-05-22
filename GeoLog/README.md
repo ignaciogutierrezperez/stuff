@@ -1,4 +1,4 @@
-# Script to export information for a Excel borehole log
+# Script to export information from a Excel borehole log
 Inputs: Excel file with the asbuilt information  
 Outputs:
    - csv file with the geographical coordinates
